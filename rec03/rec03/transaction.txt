@@ -1,0 +1,3 @@
+Account moe 6
+Deposit 6 10
+Withdraw 6 100
